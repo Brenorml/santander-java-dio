@@ -1,4 +1,4 @@
-package santander.bootcamp.OO;
+package santander.bootcamp.OO.estrutura;
 
 public class Carro {
     String cor;
